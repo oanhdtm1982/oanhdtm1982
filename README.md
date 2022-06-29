@@ -10,7 +10,7 @@
 
 Everything you can imagine is real.
 
-- 🎓 Currently studying at </b> University of Information Technology (VNUHCM).   
+- 🎓 Currently studying at University of Information Technology (VNUHCM).   
 - 💬 Ask me about: What I know 😗.
 - 📫 How to reach me: [minhoanh231101@gmail.com](mailto:minhoanh231101@gmail.com).
 - ⚡ Fun fact: When I have some spare time I relax by watching TV, listening to music and researching new technologies. I have a great love for going places with family and friends.
@@ -40,17 +40,3 @@ Everything you can imagine is real.
 
 ---
 Modified by: 🐷
-<!--
-**DoVuMinhOanh1982/DoVuMinhOanh1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
