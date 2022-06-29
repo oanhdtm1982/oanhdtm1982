@@ -10,7 +10,7 @@
 
 Everything you can imagine is real.
 
-- 🎓 &nbsp;<b>Currently studying at </b> University of Information Technology (VNUHCM).   
+- 🎓 Currently studying at </b> University of Information Technology (VNUHCM).   
 - 💬 Ask me about: What I know 😗.
 - 📫 How to reach me: [minhoanh231101@gmail.com](mailto:minhoanh231101@gmail.com).
 - ⚡ Fun fact: When I have some spare time I relax by watching TV, listening to music and researching new technologies. I have a great love for going places with family and friends.
