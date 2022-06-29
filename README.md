@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! My name's Minh Oanh 🐷</h3>
+<h1 align="center">Hi there! My name's Minh Oanh 🐷</h1>
 <p align="center">
   <a href="https://www.facebook.com/dovuminhoanh1982/">Facebook</a> •
   <a href="https://www.instagram.com/dovuminhoanh.1982">Instagram</a> •
