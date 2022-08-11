@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://www.facebook.com/dovuminhoanh1982/">Facebook</a> •
   <a href="https://www.instagram.com/dovuminhoanh.1982">Instagram</a> •
-  <a href="https://twitter.com/DoVuMinhOanh">Twitter</a>
+  <a href="https://twitter.com/DoVuMinhOanh">Twitter</a> •
+  <a href="https://www.linkedin.com/in/thi-minh-oanh-do-513b5119a/">LinkedIn</a>
 </p>
 
 ---
@@ -12,7 +13,7 @@ Everything you can imagine is real.
 
 - 🎓 Currently studying at University of Information Technology (VNUHCM).   
 - 💬 Ask me about: What I know 😗.
-- 📫 How to reach me: [minhoanh231101@gmail.com](mailto:minhoanh231101@gmail.com).
+- 📫 How to reach me: [minhoanh231101@gmail.com](mailto:minhoanh231101@gmail.com) or [19521982@gm.uit.edu.vn](mailto:19521982@gm.uit.edu.vn).
 - ⚡ Fun fact: When I have some spare time I relax by watching TV, listening to music and researching new technologies. I have a great love for going places with family and friends.
 
 ---
