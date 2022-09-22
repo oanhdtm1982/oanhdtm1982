@@ -36,8 +36,8 @@ Visit my portfolio page https://minh-oanh-portfolio.vercel.app/
 
 <div align="center">
   <a href="https://github.com/dovuminhoanh1982">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovuminhoanh1982&layout=compact&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovuminhoanh1982&langs_count=6&layout=compact&theme=react" />  
+    <img height="230em" src="https://github.com/dovuminhoanh1982/github-stats-transparent/blob/output/generated/overview.svg" />
+    <img height="230em" src="https://github.com/dovuminhoanh1982/github-stats-transparent/blob/output/generated/languages.svg" />  
   </a>
 </div>
 
