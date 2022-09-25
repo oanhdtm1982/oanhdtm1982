@@ -1,10 +1,13 @@
-<h1 align="center">Hi there! My name's Minh Oanh 🐷</h1>
+<p align="center">
+  <a href="https://github.com/DoVuMinhOanh1982"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=5F9EA0&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;My+name's+Minh+Oanh+🐷" alt="DoVuMinhOanh1982 | hello_world!" /></a>
+</p>
 <p align="center">
   <a href="https://www.facebook.com/dovuminhoanh1982/">Facebook</a> •
   <a href="https://www.instagram.com/dovuminhoanh.1982">Instagram</a> •
   <a href="https://twitter.com/DoVuMinhOanh">Twitter</a> •
   <a href="https://www.linkedin.com/in/thi-minh-oanh-do-513b5119a/">LinkedIn</a>
 </p>
+
 
 ---
 ✨ Đỗ Vũ Minh Oanh. 
