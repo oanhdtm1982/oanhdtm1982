@@ -41,7 +41,7 @@ Visit my portfolio page https://minh-oanh-portfolio.vercel.app/
   <a href="https://github.com/dovuminhoanh1982">
     <img height="230em" src="https://github.com/dovuminhoanh1982/github-stats-transparent/blob/output/generated/overview.svg" />
     <img height="230em" src="https://github.com/dovuminhoanh1982/github-stats-transparent/blob/output/generated/languages.svg" />
-    <img height="370em" src="https://activity-graph.herokuapp.com/graph?username=dovuminhoanh1982&theme=react" />
+    <img height="350em" src="https://activity-graph.herokuapp.com/graph?username=dovuminhoanh1982&theme=react" />
   </a>
 </div>
 
