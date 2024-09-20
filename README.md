@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   👻 <a href="https://www.facebook.com/dovuminhoanh1982/">Facebook</a> •
-  <a href="https://www.instagram.com/dovuminhoanh.1982">Instagram</a> •
+  <a href="https://www.instagram.com/oanhdvm2030">Instagram</a> •
   <a href="https://twitter.com/DoVuMinhOanh">Twitter</a> •
   <a href="https://www.linkedin.com/in/thi-minh-oanh-do-513b5119a/">LinkedIn</a> 👻
 </p>
